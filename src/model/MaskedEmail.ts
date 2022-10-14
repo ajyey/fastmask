@@ -36,4 +36,4 @@ export interface MaskedEmail {
  * disabled: the address is active, but mail is sent straight to trash.
  * deleted: the address is inactive; any mail sent to the address is bounced.
  */
-type MaskedEmailState = 'enabled' | 'disabled' | 'pending' | 'deleted';
+export type MaskedEmailState = 'enabled' | 'disabled' | 'pending' | 'deleted';
