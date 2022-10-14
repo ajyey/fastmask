@@ -25,6 +25,7 @@
     ],
     "author": "Alexander Schwartzberg",
     "license": "MIT",
+  	"type": "module",
     "bugs": {
         "url": "https://github.com/aeksco/react-typescript-chrome-extension-starter/issues"
     },
