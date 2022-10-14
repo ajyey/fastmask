@@ -1,0 +1,20 @@
+<svg width="1763.0000000000002" height="1081" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient spreadMethod="pad" y2="1" x2="1" y1="0" x1="0" id="svg_5">
+   <stop offset="0.12109" stop-opacity="0.98828" stop-color="#0067b9"/>
+   <stop offset="0.48438" stop-opacity="0.98438" stop-color="#69b3e7"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ffc107"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+   <stop offset="NaN" stop-opacity="0" stop-color="0"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#svg_5)" d="m881.25048,0c-484.68776,0 -881.25048,135.15635 -881.25048,290.58614l0,394.65653c0,216.25015 300.88409,396.00809 566.51816,396.00809c188.83939,0 253.04478,-337.89086 314.73231,-337.89086s125.89293,337.89086 314.73231,337.89086c251.78585,0 566.51816,-218.95328 566.51816,-378.43777l0,-405.46904c0,-162.18761 -394.04486,-297.34396 -881.25048,-297.34396zm-377.67878,675.78173c-138.48222,0 -251.78585,-60.82036 -251.78585,-135.15635s113.30363,-135.15635 251.78585,-135.15635s251.78585,60.82036 251.78585,135.15635s-113.30363,135.15635 -251.78585,135.15635zm755.35755,0c-138.48222,0 -251.78585,-60.82036 -251.78585,-135.15635s113.30363,-135.15635 251.78585,-135.15635s251.78585,60.82036 251.78585,135.15635s-113.30363,135.15635 -251.78585,135.15635z"/>
+ </g>
+</svg>
